@@ -1,2 +1,21 @@
-# message-to-the-group-via-bot
-A bot that will allow you to write to a group on behalf of the bot, the bot only needs to be able to write messages to the group, and also know the group ID
+# Сообщение в группе-виа-бот
+Капюстит,
+1. СОЕДИЯ БОБЕРА
+2. vestate -vpaйl bot.py и osraonitege
+3. зapypitete -faйl (1 и спообобообообразно Стровка и Тудадж) 
+
+
+############ Помо ############
+чtobы poluhithe omeTath aйdigruppыmoжno uзnath wote @chatidinfobot
+Командад -внаписат /смис
+
+
+
+Как запустить бот, чтобы он работал правильно
+1. Создать бота и получить токен в боте @botfather
+2. Вставьте его в файл bot.py и сохранить
+3. Запустите файл (одним из способов написать CMD в строке C: \ users \ admin \ desktop \ python \ sms_in_grupp, тогда командная строка откроется и вставьте эту команду Python bot.py там)
+
+############## Помощь #############
+Чтобы получить идентификатор группы, вы можете узнать в боте @chatidinfobot
+Команда для написания /SMS -идентификационного идентификатора группы
